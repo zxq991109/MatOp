@@ -1,0 +1,13 @@
+Package: MatrixOperation
+Type: Package
+Title: Conduct a matrix multiplication and get the diagonal elements of the product
+Version: 0.1.0
+Author: Elaine
+Maintainer: Elaine<zxq991109@163.com>
+Description: First calculate the sums and then multiply the sums and then obtain the diagonal elements of the product.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
+Suggests:
+       testthat

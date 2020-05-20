@@ -1,0 +1,8 @@
+citHeader("To cite the testthat package in publications, use:")
+
+citEntry(
+  entry="Article",
+  author=Elaine,
+  title="RUC test package",
+  journal="RUC test journal"
+)
